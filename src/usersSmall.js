@@ -1,4 +1,4 @@
-const data = [
+export const smallData = [
   {
     id: 592,
     firstName: 'Kameko',

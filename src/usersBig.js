@@ -1,4 +1,4 @@
-const data = [
+export const bigData = [
   {
     id: 386,
     firstName: 'Tae',
